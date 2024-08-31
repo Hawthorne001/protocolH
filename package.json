@@ -39,7 +39,7 @@
     "tslint": "5.8.0",
     "typescript": "^2.8.3",
     "web3-typescript-typings": "^0.10.2",
-    "webpack": "^4.0.0"
+    "webpack": "^5.94.0"
   },
   "dependencies": {
     "@types/bitwise-xor": "0.0.30",
@@ -60,7 +60,7 @@
     "events": "^1.1.1",
     "js-sha3": "^0.7.0",
     "lodash": "^4.17.5",
-    "npm": "^5.8.0",
-    "web3": "0.20.2"
+    "npm": "^10.8.3",
+    "web3": "1.5.3"
   }
 }
